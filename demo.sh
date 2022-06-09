@@ -8,3 +8,4 @@ date
 
 echo "display jenkins memory space "
 free -m
+hi this shyam
